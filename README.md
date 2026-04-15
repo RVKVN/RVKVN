@@ -1,5 +1,15 @@
 ## Hi there 👋
+root@rvkvn:~# whoami
 
+i am rakan senior cybersecurity student
+
+root@rvkvn:~# cat interests.txt
+
+SOC Analyst || DFIR || Threat Hunting
+
+root@rvkvn:~# id
+
+(Blue Teamer) - (Always Hunting) - (Never Sleeping)
 <!--
 **RVKVN/RVKVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
