@@ -1,5 +1,20 @@
 ## Hi there 👋
+(rvkvn㉿rvkvn)-[~] $ whoami
 
+Cybersecurity Student | Blue Teamer
+
+
+(rvkvn㉿rvkvn)-[~] $ cat interests.txt
+
+SOC | DFIR | Threat Hunting
+
+(rvkvn㉿rvkvn)-[~] $ ls certs
+
+eCTHP | eCDFP
+
+(rvkvn㉿rvkvn)-[~] $ echo $STATUS
+
+ALWAYS LEARNING.
 <!--
 **RVKVN/rvkvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
